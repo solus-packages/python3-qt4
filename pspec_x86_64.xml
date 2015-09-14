@@ -24,7 +24,7 @@
         </Files>
     </Package>
     <History>
-        <Update release="1">
+        <Update release="2">
             <Date>2015-09-14</Date>
             <Version>4.11.4</Version>
             <Comment>Packaging update</Comment>
