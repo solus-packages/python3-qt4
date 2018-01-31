@@ -2,8 +2,8 @@
     <Source>
         <Name>python3-qt4</Name>
         <Packager>
-            <Name>Pierre-Yves</Name>
-            <Email>pyu@riseup.net</Email>
+            <Name>Peter O&apos;Connor</Name>
+            <Email>peter@solus-project.com</Email>
         </Packager>
         <License>GPL-3.0</License>
         <PartOf>programming.python</PartOf>
@@ -19,88 +19,88 @@
 </Description>
         <PartOf>programming.python</PartOf>
         <Files>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/Qt.pyi</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/Qt.so</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/QtCore.pyi</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/QtCore.so</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/QtDBus.pyi</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/QtDBus.so</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/QtDeclarative.pyi</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/QtDeclarative.so</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/QtDesigner.pyi</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/QtDesigner.so</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/QtGui.pyi</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/QtGui.so</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/QtHelp.pyi</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/QtHelp.so</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/QtMultimedia.pyi</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/QtMultimedia.so</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/QtNetwork.pyi</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/QtNetwork.so</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/QtOpenGL.pyi</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/QtOpenGL.so</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/QtScript.pyi</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/QtScript.so</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/QtScriptTools.pyi</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/QtScriptTools.so</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/QtSql.pyi</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/QtSql.so</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/QtSvg.pyi</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/QtSvg.so</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/QtTest.pyi</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/QtTest.so</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/QtXml.pyi</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/QtXml.so</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/QtXmlPatterns.pyi</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/QtXmlPatterns.so</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/__init__.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/uic/Compiler/__init__.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/uic/Compiler/compiler.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/uic/Compiler/indenter.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/uic/Compiler/misc.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/uic/Compiler/proxy_metaclass.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/uic/Compiler/qobjectcreator.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/uic/Compiler/qtproxies.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/uic/Loader/__init__.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/uic/Loader/loader.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/uic/Loader/qobjectcreator.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/uic/__init__.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/uic/driver.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/uic/exceptions.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/uic/icon_cache.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/uic/objcreator.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/uic/port_v2/__init__.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/uic/port_v2/as_string.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/uic/port_v2/ascii_upper.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/uic/port_v2/invoke.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/uic/port_v2/load_plugin.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/uic/port_v2/proxy_base.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/uic/port_v2/string_io.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/uic/port_v3/__init__.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/uic/port_v3/as_string.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/uic/port_v3/ascii_upper.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/uic/port_v3/invoke.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/uic/port_v3/load_plugin.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/uic/port_v3/proxy_base.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/uic/port_v3/string_io.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/uic/properties.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/uic/pyuic.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/uic/uiparser.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/uic/widget-plugins/phonon.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/uic/widget-plugins/qaxcontainer.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/uic/widget-plugins/qscintilla.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/uic/widget-plugins/qtdeclarative.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/PyQt4/uic/widget-plugins/qtwebkit.py</Path>
-            <Path fileType="library">/usr/lib/python3.5/site-packages/dbus/mainloop/qt.so</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/Qt.pyi</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/Qt.so</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/QtCore.pyi</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/QtCore.so</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/QtDBus.pyi</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/QtDBus.so</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/QtDeclarative.pyi</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/QtDeclarative.so</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/QtDesigner.pyi</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/QtDesigner.so</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/QtGui.pyi</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/QtGui.so</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/QtHelp.pyi</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/QtHelp.so</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/QtMultimedia.pyi</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/QtMultimedia.so</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/QtNetwork.pyi</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/QtNetwork.so</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/QtOpenGL.pyi</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/QtOpenGL.so</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/QtScript.pyi</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/QtScript.so</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/QtScriptTools.pyi</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/QtScriptTools.so</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/QtSql.pyi</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/QtSql.so</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/QtSvg.pyi</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/QtSvg.so</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/QtTest.pyi</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/QtTest.so</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/QtXml.pyi</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/QtXml.so</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/QtXmlPatterns.pyi</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/QtXmlPatterns.so</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/uic/Compiler/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/uic/Compiler/compiler.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/uic/Compiler/indenter.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/uic/Compiler/misc.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/uic/Compiler/proxy_metaclass.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/uic/Compiler/qobjectcreator.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/uic/Compiler/qtproxies.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/uic/Loader/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/uic/Loader/loader.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/uic/Loader/qobjectcreator.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/uic/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/uic/driver.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/uic/exceptions.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/uic/icon_cache.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/uic/objcreator.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/uic/port_v2/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/uic/port_v2/as_string.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/uic/port_v2/ascii_upper.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/uic/port_v2/invoke.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/uic/port_v2/load_plugin.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/uic/port_v2/proxy_base.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/uic/port_v2/string_io.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/uic/port_v3/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/uic/port_v3/as_string.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/uic/port_v3/ascii_upper.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/uic/port_v3/invoke.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/uic/port_v3/load_plugin.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/uic/port_v3/proxy_base.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/uic/port_v3/string_io.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/uic/properties.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/uic/pyuic.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/uic/uiparser.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/uic/widget-plugins/phonon.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/uic/widget-plugins/qaxcontainer.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/uic/widget-plugins/qscintilla.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/uic/widget-plugins/qtdeclarative.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/PyQt4/uic/widget-plugins/qtwebkit.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/dbus/mainloop/qt.so</Path>
         </Files>
     </Package>
     <History>
-        <Update release="6">
-            <Date>2017-11-16</Date>
+        <Update release="7">
+            <Date>2018-01-31</Date>
             <Version>4.12.1</Version>
             <Comment>Packaging update</Comment>
-            <Name>Pierre-Yves</Name>
-            <Email>pyu@riseup.net</Email>
+            <Name>Peter O&apos;Connor</Name>
+            <Email>peter@solus-project.com</Email>
         </Update>
     </History>
 </PISI>
