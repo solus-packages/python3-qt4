@@ -2,8 +2,8 @@
     <Source>
         <Name>python3-qt4</Name>
         <Packager>
-            <Name>Peter O&apos;Connor</Name>
-            <Email>peter@solus-project.com</Email>
+            <Name>Joey Riches</Name>
+            <Email>josephriches@gmail.com</Email>
         </Packager>
         <License>GPL-3.0</License>
         <PartOf>programming.python</PartOf>
@@ -95,12 +95,12 @@
         </Files>
     </Package>
     <History>
-        <Update release="8">
-            <Date>2018-02-07</Date>
+        <Update release="9">
+            <Date>2018-07-29</Date>
             <Version>4.12.1</Version>
             <Comment>Packaging update</Comment>
-            <Name>Peter O&apos;Connor</Name>
-            <Email>peter@solus-project.com</Email>
+            <Name>Joey Riches</Name>
+            <Email>josephriches@gmail.com</Email>
         </Update>
     </History>
 </PISI>

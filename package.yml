@@ -1,6 +1,6 @@
 name       : python3-qt4
 version    : 4.12.1
-release    : 8
+release    : 9
 source     :
     - https://netcologne.dl.sourceforge.net/project/pyqt/PyQt4/PyQt-4.12.1/PyQt4_gpl_x11-4.12.1.tar.gz : 45d724461ae58b019b9be95076ca07e212eb73084aec9125bb254825c3a05383
 license    : GPL-3.0
